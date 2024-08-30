@@ -1,4 +1,4 @@
-# Ishana's First CS193 Homework 
+# Ishana Didwania's First CS193 Homework 
 
 My favorite things about CS193
 - Class only once a week
